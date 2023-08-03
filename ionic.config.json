@@ -1,0 +1,7 @@
+{
+  "name": "EasyFoods",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
